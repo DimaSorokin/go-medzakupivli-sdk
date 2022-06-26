@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/DimaSorokin/go-medzakupivli-sdk/client/client"
+	"github.com/DimaSorokin/go-medzakupivli-sdk/client"
 	"log"
 	"time"
 )

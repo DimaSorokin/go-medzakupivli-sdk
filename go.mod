@@ -1,4 +1,4 @@
-module github.com/DimaSorokin/go-medzakupivli-sdk/client
+module github.com/DimaSorokin/go-medzakupivli-sdk
 
 go 1.16
 
