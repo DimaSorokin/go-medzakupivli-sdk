@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-type Hostitals struct {
+type Hostitals []struct {
 	Edrpou string `json:"edrpou"`
 	Region string `json:"region"`
 	Name   string `json:"name"`
